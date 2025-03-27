@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a27h1ls86-nodejs-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/a27h1ls86-nodejs
